@@ -3,7 +3,7 @@
 # 确保脚本抛出遇到的错误
 set -e
 
-# ===================== 第一步：提交项目源码到 main 分支 =====================
+# ===================== 第一步：提交项目源码到 master 分支 =====================
 # 1. 添加所有源码文件（.gitignore 中配置的文件会自动忽略）
 git init
 git add -A
@@ -13,7 +13,7 @@ git commit -m "docs: update project source code" || echo "No changes to commit f
 git remote add origin git@github.com:zzxrepository/mmzhang-blog.git || echo "Remote origin already exists"
 
 # 4. 推送源码到远程 main 分支
-git push -u origin main
+git push -u origin master
 
 # ===================== 第二步：推送静态文件到 gh-pages 分支 =====================
 # 生成静态文件
