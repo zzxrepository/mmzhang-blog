@@ -5,7 +5,7 @@ set -e
 
 # ===================== 第一步：提交项目源码到 master 分支 =====================
 # 1. 添加所有源码文件（.gitignore 中配置的文件会自动忽略）
-# git init
+git init
 git add -A
 git commit -m "docs: update project source code" || echo "No changes to commit for source code"
 
