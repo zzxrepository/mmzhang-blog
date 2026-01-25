@@ -10,10 +10,10 @@ category:
 
 ### 树
 
-- [树](tree/LeetCode刷题笔记2.md)
-- [树](tree/LeetCode刷题笔记3.md)
-- [树](tree/LeetCode刷题笔记4.md)
-- [树](tree/LeetCode刷题笔记5.md)
+- [树](/LeetCode刷题笔记2.md)
+- [树](/LeetCode刷题笔记3.md)
+- [树](/LeetCode刷题笔记4.md)
+- [树](/LeetCode刷题笔记5.md)
 
 
 <!-- ### 
