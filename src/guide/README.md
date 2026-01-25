@@ -8,9 +8,8 @@ icon: lightbulb
 ### Bar
 
 - [baz](bar/baz.md)
-- ...
+
 
 ### Foo
 
 - [ray](foo/ray.md)
-- ...
