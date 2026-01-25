@@ -79,7 +79,7 @@ export default navbar([
   },
   {
     text: "AI助手",
-    icon: "robot", // 语义化图标，小白一眼认得出是AI相关
+    icon: "robot",
     children: [
       {
         text: "通用大模型",
@@ -98,6 +98,7 @@ export default navbar([
           { text: "讯飞星火", link: "https://xinghuo.xfyun.cn/" },
           { text: "问小白", link: "https://www.wenxiaobai.com/" }, 
           { text: "HuggingFace", link: "https://huggingface.co/" },
+          { text: "ModelScope", link: "https://modelscope.cn/" },
         ],
       },
     ],
